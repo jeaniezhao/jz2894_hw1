@@ -1,1 +1,3 @@
 this is first textfile for hw1
+
+Edited for Step 3
